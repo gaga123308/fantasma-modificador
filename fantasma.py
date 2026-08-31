@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import os
 
 def criar_painel():
     print "===================================="
